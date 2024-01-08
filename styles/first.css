@@ -241,5 +241,50 @@ margin-bottom: 48px;
              }
 
              .year-section{
-                padding: 25px;
+                padding-left: 50px;
+             }
+
+             .year-section>h1{
+                color: #F00;
+                font-family: Inter;
+                font-size: 48px;
+                font-weight: 700;
+                line-height: normal;
+             }
+             /* functional-section */
+
+             .functional{
+                text-align: center;
+
+             }
+             .functional>h4{
+                color: #070211;
+                font-family: Inter;
+                font-size: 24px;
+                font-weight: 500;
+                line-height: normal;
+                margin-top: 50px;
+                margin-bottom: 10px;
+             }
+
+             .h1-red{
+                color: #F00;
+                text-align: center;
+                font-family: Merriweather;
+                font-size: 72px;
+                font-style: normal;
+                font-weight: 900;
+                line-height: normal;
+
+             }
+
+             .functional>h1{
+                color: #070211;
+                font-family: Merriweather;
+                font-size: 72px;
+                font-style: normal;
+                font-weight: 900;
+                line-height: normal;
+                margin-top: 10px;
+                margin-bottom: 10px;
              }
